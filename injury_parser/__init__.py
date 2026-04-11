@@ -1,0 +1,1 @@
+# Package for automated injury data parsing
